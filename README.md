@@ -1,1 +1,1 @@
-# coredump-case
+# coredump cases for c
